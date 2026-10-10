@@ -1,8 +1,8 @@
 # Genesis 2026: Ideathon
 
-## GEN26-A0H-I028`
+## GEN26-A0H-I028
 ### Team Details
-#### **Team Name** **THE NOTRE DAME** <br/>
+#### **Team Name:  ** **THE NOTRE DAME** <br/>
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |  🏚️Hostel              |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:|:----------------------:| 
